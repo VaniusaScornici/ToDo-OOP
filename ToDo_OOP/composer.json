@@ -1,0 +1,11 @@
+{
+    "name": "iscornici/to-do_oop",
+    "autoload": {
+        "psr-4": {
+            "Iscornici\\ToDoOop\\": "src/"
+        }
+    },
+    "require": {
+      "ext-readline": "*"
+    }
+}
